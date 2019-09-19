@@ -1,6 +1,8 @@
 # trivago zealpath challenge
 Click the [link](https://jobs.zealpath.com/m/case/detail/298) to the challenge.
 
+- Please see the [v2 branch](https://github.com/berkkarahan/trivago-challenge/tree/v2) of the repo where I go over the same project with different perspectives.
+
 ## Dependencies
 Due to quick prototyping there is no requirements file this time. However please manually install the following to make and run the project;
 
